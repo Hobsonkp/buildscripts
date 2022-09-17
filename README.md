@@ -1,13 +1,13 @@
 
 Kura Labs Cohort3 Build Script 4  
 
-# Name: Kerri Smith
-# Date: 15th September 2022
-#---------------------------------------------------------------------------#
-#
-# Objective: Demonstrate your ability to gather data from an API and organize 
-# that data into a specific format (see BuildScript4README.txt for more details)
-# 
+Name: Kerri Smith
+Date: 15th September 2022
+
+
+# Objective: 
+Demonstrate your ability to gather data from an API and organize that data into a specific format (see BuildScript4README.txt for more details)
+
 # FUNCTIONALITY
 #   The script read a list of IP addresses from there were failed login attempts to an ftp server.
 #   The location of these IP addresses are retrieved from the ipgeolcation api
