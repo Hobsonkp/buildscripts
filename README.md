@@ -3,7 +3,6 @@
 #############################################################################
 # Name: Kerri Smith
 # Date: 15th September 2022
-# kerri.p.h.smith@gmail.com
 #---------------------------------------------------------------------------#
 #
 # Objective: Demonstrate your ability to gather data from an API and organize 
@@ -16,9 +15,6 @@
 #  The script uses the following files:
 #   BuildScript4.py - generates output CSV file
 #   BuildScript4_api.sh - gathers the IP addresses from the error report and accesses the api to retrieve the ipgeolocations
-
-#  GitHub link for script: https://github.com/Hobsonkp/buildscripts/tree/build4
-
 #############################################################################
 # Limitations script can only access a specific log file in a set location
 # Future versions will allow for the user to enter the location of the log file
