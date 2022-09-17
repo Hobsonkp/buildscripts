@@ -1,5 +1,5 @@
 
-##################  Kura Labs Cohort3 Build Script 4  #######################
+Kura Labs Cohort3 Build Script 4  
 
 # Name: Kerri Smith
 # Date: 15th September 2022
